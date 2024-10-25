@@ -1,6 +1,6 @@
 AOS.init(); // Inicializa a biblioteca AOS (Animate On Scroll) para animações ao rolar a página.
 
-const dataDoEvento = new Date("Dec 21, 2024 19:00:00"); // Cria um objeto Date representando a data do evento.
+const dataDoEvento = new Date("set 10, 2025 19:00:00"); // Cria um objeto Date representando a data do evento.
 const TimeStampDoEvento = dataDoEvento.getTime(); // Converte a data do evento em um timestamp (milissegundos desde 1 de janeiro de 1970).
 
 const contaAsHoras = setInterval(function() { // Inicia um intervalo que executa a função a cada 1000 milissegundos (1 segundo).
